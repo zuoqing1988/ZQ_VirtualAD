@@ -1,5 +1,7 @@
-ZQ_VirtualADæ˜¯ä¸€ä¸ªæ¤å…¥è™šæ‹Ÿå¹¿å‘Šçš„å·¥å…·ï¼ŒåŒ…æ‹¬åŒºåŸŸè·Ÿè¸ªï¼Œå¸¦é€æ˜Žåº¦çš„æŠ å›¾ï¼Œè¿˜æœ‰ä¸€äº›å…¶ä»–çš„è¾…åŠ©åŠŸèƒ½ã€‚
-ä¾èµ–ZQlibï¼Œopencv2.4.13.5(ç‰¹å¾ç‚¹æå–ç”¨çš„surfå’Œsiftï¼Œå¦‚æžœæ˜¯opencv3éœ€è¦ä¿®æ”¹åŒ…å«çš„å¤´æ–‡ä»¶)ï¼Œffmpeg-3.4.1ï¼ˆè§†é¢‘seekç”¨çš„ï¼‰ï¼Œ suitesparse-metisï¼ˆæŠ å›¾è§£æ–¹ç¨‹ç”¨çš„ï¼‰ã€‚
-ä¸‹è½½ä¾èµ–åº“ä¹‹åŽè¯·è‡ªè¡Œåœ¨é¡¹ç›®é‡Œé¢æ›´æ”¹å¤´æ–‡ä»¶è·¯å¾„å’Œåº“è·¯å¾„ã€‚
+ZQ_VirtualADÊÇÒ»¸öÖ²ÈëÐéÄâ¹ã¸æµÄ¹¤¾ß£¬°üÀ¨ÇøÓò¸ú×Ù£¬´øÍ¸Ã÷¶ÈµÄ¿ÙÍ¼£¬»¹ÓÐÒ»Ð©ÆäËûµÄ¸¨Öú¹¦ÄÜ¡£
+ÒÀÀµZQlib£¬opencv2.4.13.5(ÌØÕ÷µãÌáÈ¡ÓÃµÄsurfºÍsift£¬Èç¹ûÊÇopencv3ÐèÒªÐÞ¸Ä°üº¬µÄÍ·ÎÄ¼þ)£¬ffmpeg-3.4.1£¨ÊÓÆµseekÓÃµÄ£©£¬ suitesparse-metis£¨¿ÙÍ¼½â·½³ÌÓÃµÄ£©¡£
+ÏÂÔØÒÀÀµ¿âÖ®ºóÇë×ÔÐÐÔÚÏîÄ¿ÀïÃæ¸ü¸ÄÍ·ÎÄ¼þÂ·¾¶ºÍ¿âÂ·¾¶¡£
 
-ä½¿ç”¨è¯´æ˜ŽåŠæµ‹è¯•æ•°æ® é“¾æŽ¥ï¼šhttps://pan.baidu.com/s/1M4iW5SnmwDStvoootJOZ8w å¯†ç ï¼švwj2
+Ê¹ÓÃËµÃ÷¼°²âÊÔÊý¾Ý Á´½Ó£ºhttps://pan.baidu.com/s/1M4iW5SnmwDStvoootJOZ8w ÃÜÂë£ºvwj2
+
+Èç¹ûÄãÊµÔÚ±àÒë²»ºÃ£¬Çë´Ó´Ë´¦ÏÂÔØ Á´½Ó£ºhttps://pan.baidu.com/s/192NMG0dri0jX8V1tdwM_uA ÃÜÂë£ºl71f
