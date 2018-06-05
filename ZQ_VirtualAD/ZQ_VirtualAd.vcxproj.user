@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LocalDebuggerWorkingDirectory>..\测试跟踪&amp;贴广告</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerCommandArguments>play_shape_and_scene_cut C:\360极速浏览器下载\videos\格式工厂乡村爱情9EP01.mp4 detect6\scene_cut_1.txt</LocalDebuggerCommandArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LocalDebuggerWorkingDirectory>..\测试跟踪&amp;贴广告</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerCommandArguments>play_shape_and_scene_cut C:\360极速浏览器下载\videos\格式工厂乡村爱情9EP01.mp4 detect6\scene_cut_1.txt</LocalDebuggerCommandArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerWorkingDirectory>..\测试跟踪&amp;贴广告</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerCommandArguments>play_shape_and_scene_cut C:\360极速浏览器下载\videos\我的新野蛮女友.avi detect3\scene_cut_1.txt</LocalDebuggerCommandArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerWorkingDirectory>..\测试跟踪&amp;贴广告</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerCommandArguments>play_shape_and_scene_cut C:\360极速浏览器下载\videos\我的新野蛮女友.avi detect3\scene_cut_1.txt</LocalDebuggerCommandArguments>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,34 @@
+版本日期：2017-01-23
+1.选择范围
+TrackingBoard.exe select imagefile configfile [scale]
+
+2.执行跟踪 
+TrackingBoard.exe sequence [参数名 参数值]
+
+参数名				参数值								默认值
+reproj_err_thresh		double								1.0
+ransac_iter			int								2000
+ransac_inner_iter		int								1
+ransac_confidence		double								1.0
+levmar_iter			int								300
+eps				double								1e-9
+dis1_to_dis2_ratio		double								0.6
+feature_dis_angle		double								0.2*pi
+kdtree_search_mode		enum(ANN | ANN_WITH_INIT_RADIUS | BRUTE_FORCE)			BRUTE_FORCE		
+select_match_cross_check	bool								false
+display				bool								false
+width				int								480
+height				int								270
+refer_num			int								1
+frame_num			int								0
+base_id				int								0
+skip				int								1
+work_fold			string								"."
+keyframe_id			vector<int>			
+
+备注：
+原图命名（输入）		work_fold\images\%d.jpg，
+sift特征点文件名（输入）	work_fold\key\%d.key
+匹配图像（输出）		work_fold\match\%d_%d.jpg
+跟踪图像（输出）		work_fold\track\%d.jpg
+跟踪点坐标（输入&输出）		work_fold\config\%d.txt		
